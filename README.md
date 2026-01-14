@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! 👋 Soy Alejandro Roa Aparicio
+# ¡Hello There! 👋 Soy Alejandro Roa Aparicio
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ingeniero+Mecatr%C3%B3nico+%F0%9F%A4%96;Ingeniero+de+Sistemas+%F0%9F%92%BB;Rob%C3%B3tica+%26+IA+Aplicada+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 
@@ -26,6 +26,33 @@
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
   </a>
 </p>
+
+---
+
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 🏆 Competencias & Hackatones
+
+**2025:** Hackaton SostechPreneur EAN • RHA Robotics Internacional 1L • EAN BOT • CANSAT Congreso Internacional  
+**2024:** Hackaton Facultad de Ingeniería EAN • **2023:** Hackaton Facultad de Ingeniería EAN
 
 ---
 
@@ -76,32 +103,6 @@ Proyecto que busca democratizar la robótica. 100% open source para inspirar a s
 
 
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 🏆 Competencias & Hackatones
-
-**2025:** Hackaton SostechPreneur EAN • RHA Robotics Internacional 1L • EAN BOT • CANSAT Congreso Internacional  
-**2024:** Hackaton Facultad de Ingeniería EAN • **2023:** Hackaton Facultad de Ingeniería EAN
-
----
-
 ## 🎯 Servicios que Ofrezco
 
 <div align="center">
@@ -116,9 +117,7 @@ Proyecto que busca democratizar la robótica. 100% open source para inspirar a s
 </div>
 
 ---
-
-*💡 "La mejor forma de predecir el futuro es crearlo" - Alan Kay*
-
-[🌐 alejandroroa.engineer](https://alejandroroa.engineer)
-
+<p align="center">
+🌐 https://alejandroroa.engineer
+</p>
 </div>
