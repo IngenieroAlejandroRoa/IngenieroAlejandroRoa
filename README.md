@@ -29,7 +29,7 @@
 
 ---
 
-## 🎯 Proyectos Destacados
+## Mis Bebes
 
 <table>
 <tr>
@@ -50,7 +50,6 @@ Proyecto donde comparto tips, explico conceptos y busco inspirar a al menos 1 pe
   </a>
 </p>
 
-**Tech:** 📹 Edición de Video | 🎨 Diseño Gráfico | 📱 Social Media
 
 </td>
 <td width="50%">
@@ -59,7 +58,7 @@ Proyecto donde comparto tips, explico conceptos y busco inspirar a al menos 1 pe
 
 **El IDE de robótica #1 del mundo (en construcción)**
 
-Proyecto de grado que busca democratizar la robótica. 100% open source para inspirar a soñadores de todo el mundo.
+Proyecto que busca democratizar la robótica. 100% open source para inspirar a soñadores de todo el mundo.
 
 <p align="center">
   <a href="https://ingenieroalejandroroa.github.io/Robot_Angel/">
@@ -70,7 +69,6 @@ Proyecto de grado que busca democratizar la robótica. 100% open source para ins
   </a>
 </p>
 
-**Tech:** 🐍 Python | ⚛️ React | 🐳 Docker | 🔧 ROS
 
 </td>
 </tr>
@@ -121,6 +119,6 @@ Proyecto de grado que busca democratizar la robótica. 100% open source para ins
 
 *💡 "La mejor forma de predecir el futuro es crearlo" - Alan Kay*
 
-**Última actualización:** Enero 2026 | [🌐 alejandroroa.engineer](https://alejandroroa.engineer)
+[🌐 alejandroroa.engineer](https://alejandroroa.engineer)
 
 </div>
